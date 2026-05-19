@@ -32,9 +32,7 @@ Desarrollador de Software enfocado en soluciones **Full-Stack** y arquitectura *
   <tr>
     <td valign="top" width="50%">
       <strong>Databases (Relational & NoSQL)</strong><br />
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/microsoftsqlserver.png" width="48" height="48" style="vertical-align: top; margin-right: 4px;" alt="SQL Server" />
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mysql,sqlserver,mongodb" alt="Databases" />
     </td>
     <td valign="top" width="50%">
       <strong>Tools & DevOps</strong><br />
@@ -64,7 +62,7 @@ Desarrollador de Software enfocado en soluciones **Full-Stack** y arquitectura *
 
 ---
 
-## 🕹️ MI ACTIVIDAD EN TIEMPO REAL
+## 🕹️ MI ACTIVIDAD EN TIEMPO REAL (PAC-MAN)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cbenner2014/cbenner2014/main/github-contribution-grid-pacman.svg" alt="GitHub Pacman Game" />
