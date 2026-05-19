@@ -73,7 +73,7 @@ Desarrollador de Software enfocado en soluciones **Full-Stack** y arquitectura *
 ## 📬 CONECTEMOS
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/benner-ronaldo-sime%C3%B3n-condori-646453239/" target="_blank">
+  <a href="https://www.linkedin.com/in/benner-ronaldo-sime%C3%B3n-condori-646435329/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
