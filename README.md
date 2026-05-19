@@ -64,7 +64,7 @@ Desarrollador de Software enfocado en soluciones **Full-Stack** y arquitectura *
 
 ---
 
-## 🕹️ MI ACTIVIDAD EN TIEMPO REAL (PAC-MAN)
+## 🕹️ MI ACTIVIDAD EN TIEMPO REAL
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cbenner2014/cbenner2014/main/github-contribution-grid-pacman.svg" alt="GitHub Pacman Game" />
