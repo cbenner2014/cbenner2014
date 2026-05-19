@@ -32,7 +32,7 @@ Desarrollador de Software enfocado en soluciones **Full-Stack** y arquitectura *
   <tr>
     <td valign="top" width="50%">
       <strong>Databases (Relational & NoSQL)</strong><br />
-      <img src="https://skillicons.dev/icons?i=mysql,sqlserver,mongodb" alt="Databases" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
     </td>
     <td valign="top" width="50%">
       <strong>Tools & DevOps</strong><br />
